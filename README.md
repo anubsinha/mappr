@@ -1,2 +1,2 @@
-# mappr
+# mapr
 GIS and more
